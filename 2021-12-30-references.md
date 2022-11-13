@@ -1,11 +1,4 @@
----
-layout: post
-title: 《汇编器与加载器》参考文献
-categories: Reading
-tags: system
----
-
-# 参考文献 {#Reference}
+# 参考文献
 
 1. Barron, D. W., Assemblers and Loaders, 3rd ed., New York, N.Y.: American Elsevier 1968.
 2. Kent, W., Assembler Language Macroprogramming, ACM Computing Surveys 1,4(Dec. 1969) 183–196.
